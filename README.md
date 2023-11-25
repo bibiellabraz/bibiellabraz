@@ -11,3 +11,9 @@ E, atualmente, finalizei um curso de Analista de QA, do qual me encantei ainda m
 Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, BI, entre outros. 
 Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre minha jornada [clicando aqui](https://www.linkedin.com/in/gabriellabraz/). 💻✨
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,html,mysql,postman, sublime, discord, linkedin" />
+  </a>
+</p>
