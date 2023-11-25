@@ -4,11 +4,11 @@ Olá! É um prazer te ter por aqui! 🙂
 
 <p align="justify">
 👋 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🧉
-Licenciada em Português e Literatura pela UFPEL, atualmente formada em Gestão em Tecnologia da Informação. 
-</p> 
-
-<p align="justify">  
-Estou em constante aprendizado, no momento em transição para a área de Tecnologia da Informação. Me encontei pela área da qualidade de software, terminei o curso de Analista de QA e aprendi muito sobre a área. 
+</p>
+<p align="justify">
+Estou em transição de carreira para a área da Tecnologia da Informação, área da qual sempre fui entusiasta. Finalizei meu tecnológico superior em Gestão em Tecnologia da Informação. 
+Sou Licenciada em Português e Literatura pela UFPEL, com atuação na área de educação de adolescentes. 
+E, atualmente, finalizei um curso de Analista de QA, do qual me encantei ainda mais pela área da qualidade de software, aprendi muito e quero aprender muito mais sobre a área. 
 </p>  
 
 <p align="justify">
