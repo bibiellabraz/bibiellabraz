@@ -6,6 +6,7 @@ Estou em constante aprendizado, no momento em transição para a área de Tecnol
 Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, BI, entre outros. 
 Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre minha jornada <a href="https://www.linkedin.com/in/gabriellabraz/" target="_blank">Clicando aqui</button>
 💻✨
+[Visite meu LinkedIn](https://www.linkedin.com/in/gabriellabraz/)
 
 ### Hi there 👋
 
