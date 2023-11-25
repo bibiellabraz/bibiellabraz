@@ -1,9 +1,9 @@
 <p align="justify">
-Eu me chamo Gabriella e sou analista de QA. É um prazer te ter por aqui! 🙂
+Olá! É um prazer te ter por aqui! 🙂
 </p>  
 
 <p align="justify">
-👋 Olá, me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
+👋 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
 Licenciada em Português e Literatura pela UFPEL, atualmente formada em Gestão em Tecnologia da Informação. 
 </p> 
 
