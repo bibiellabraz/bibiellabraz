@@ -3,7 +3,7 @@ Olá! É um prazer te ter por aqui! 🙂
 </p>  
 
 <p align="justify">
-👋 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
+👋 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🧉
 Licenciada em Português e Literatura pela UFPEL, atualmente formada em Gestão em Tecnologia da Informação. 
 </p> 
 
@@ -13,8 +13,7 @@ Estou em constante aprendizado, no momento em transição para a área de Tecnol
 
 <p align="justify">
 Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, BI, entre outros. 
-Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre minha jornada [clicando aqui](https://www.linkedin.com/in/gabriellabraz/)
-💻✨
+Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre minha jornada [clicando aqui](https://www.linkedin.com/in/gabriellabraz/) 💻✨
 </p>
 
 ### Hi there 👋
