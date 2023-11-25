@@ -5,7 +5,7 @@ Olá! É um prazer te ter por aqui! 🙂
 
 Estou em transição de carreira para a área da Tecnologia da Informação, área da qual sempre fui entusiasta. Finalizei meu tecnológico superior em Gestão em Tecnologia da Informação. 
 Sou Licenciada em Português e Literatura pela UFPEL, com atuação na área de educação de adolescentes. 
-E, atualmente, finalizei um curso de Analista de QA, do qual me encantei ainda mais pela área da qualidade de software, aprendi muito e quero aprender muito mais sobre a área. 
+E, atualmente, finalizei um curso de Analista de QA recentemente, e tenho me encantando a cada dia pela área da qualidade de software, aprendi muito e quero aprender muito mais. 
 
 
 Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, BI, entre outros. 
