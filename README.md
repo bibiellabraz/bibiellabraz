@@ -5,6 +5,9 @@ Eu me chamo Gabriella e sou analista de QA. É um prazer te ter por aqui! 🙂
 <p align="justify">
 👋 Olá, me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
 Licenciada em Português e Literatura pela UFPEL, atualmente formada em Gestão em Tecnologia da Informação. 
+</p> 
+
+<p align="justify">  
 Estou em constante aprendizado, no momento em transição para a área de Tecnologia da Informação. Me encontei pela área da qualidade de software, terminei o curso de Analista de QA e aprendi muito sobre a área. 
 </p>  
 
