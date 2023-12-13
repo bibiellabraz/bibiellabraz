@@ -6,7 +6,7 @@ Olá! É um prazer te ter por aqui! 🙂
 Estou em transição de carreira para a área da Tecnologia da Informação, área da qual sempre fui entusiasta. Em 12/23 finalizo meu Superior de Tecnologia em Gestão em Tecnologia da Informação, e cursando Pós em Gestão Estratégica de Projetos e Metodologias Ágeis. Sou Licenciada em Português e Literatura pela Universidade Federal de Pelotas, com atuação na área de educação de adolescentes, e técnica em Prótese Dentária.
 
 <p align="justify">
-Recentemente finalizei o curso de Analista de QA, aprendi muito sobre documentação, análise e decomposição, classes de equivalência, casos de testes, teste de aplicativo, checklist, API, relatório de Bugs e analisar os requisitos, entre outros.
+Recentemente finalizei o curso de Analista de QA, aprendi muito sobre documentação, análise e decomposição, classes de equivalência, casos de testes, teste de aplicativo, checklist, API, relatório de Bugs e analisar os requisitos, entre outros. Nas horas livres tenho estudado Automações de Testes para enriquecer meu conhecimento acerca dos testes de software.
 Venho me encantando a cada dia pela área, tenho aprendido muito e quero aprender a me desenvolver ainda mais. 
 </p>
 
