@@ -16,6 +16,6 @@ Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre
 <b>Linguagens e ferramentas em que já me aventurei:</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,discord,linkedin,instagram,cypress,visualstudiocode" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,discord,linkedin,instagram,cypress,vscode,selenium,npm,linkedin,github" />
   </a>
 </p>
