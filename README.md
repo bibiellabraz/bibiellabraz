@@ -7,7 +7,7 @@ Moro em Porto Alegre, e estou em transição de carreira para a área da Tecnolo
 
 <p align="justify">
 Em 2023 finalizei o curso de Analista de QA, pela TripleTen, aprendi muito sobre documentação, análise e decomposição, classes de equivalência, casos de testes, teste de aplicativo, checklist, API, relatório de Bugs e analisar os requisitos, entre outros. 
-No início do ano de 2024, iniciei uma nova etapa de aprendizado, ingressando no curso de Mentoria com o Júlio de Lima, onde pude aprender mais sobre a área de testes. Nas horas livres tenho estudado Automações de Testes para enriquecer meu conhecimento acerca dos testes de software, concluí um curso no Senai de Automações com Selenium, e começando automações com Cypress pelo Udemy. Venho me encantando a cada dia pela área, tenho aprendido muito e quero aprender a me desenvolver ainda mais.
+No início do ano de 2024, iniciei uma nova etapa de aprendizado, ingressando no curso de Mentoria com o Júlio de Lima, onde pude aprender mais sobre a área de testes. Nas horas livres tenho estudado Automações de Testes para enriquecer meu conhecimento acerca dos testes de software, concluindo um curso no Senai de Automações com Selenium, e começando automações com Cypress. Venho me encantando a cada dia pela área, tenho aprendido muito e quero aprender a me desenvolver ainda mais.
 </p>
 
 Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, Power BI, entre outros. 
@@ -16,6 +16,6 @@ Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre
 <b>Linguagens e ferramentas em que já me aventurei:</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,discord,linkedin,instagram,cypress" />
   </a>
 </p>
