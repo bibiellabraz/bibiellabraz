@@ -90,5 +90,7 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/cypress-logo.png" alt="Cypress" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/jmeter-logo.png" alt="JMeter" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/blazemeter-logo.png" alt="BlazeMeter" width="30" height="30"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </p>
