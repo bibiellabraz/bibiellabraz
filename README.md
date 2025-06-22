@@ -83,8 +83,8 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=Jira" /></a>
-  <a href="https://skillicons.dev/icons?i=Jira" />
-  <a href="https://skillicons.dev/icons?i=discord" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=Jira" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=Discord" />
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a>
   <a href="https://www.linkedin.com/in/bibielabraz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
