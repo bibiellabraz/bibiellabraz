@@ -76,7 +76,10 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,css3,figma,html,html5,mysql,postman,cypress,vscode,selenium,npm,github,discord,JavaScript,vscode,NPM,Github,Git,linkedin,instagram" />
+<img src="https://skillicons.dev/icons?i=cpp,css,css3,figma,html,html5,mysql,postman,Jira,cypress,vscode,selenium,npm,github,discord,JavaScript,vscode,NPM,Github,Git,linkedin,instagram" />
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
+  <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
+  <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
 </p>
 
 
@@ -92,7 +95,4 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a>
   <a href="https://www.linkedin.com/in/bibielabraz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
-  <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
-  <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
 </p>
