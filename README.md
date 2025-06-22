@@ -1,21 +1,48 @@
+# Olá! É um prazer te ter por aqui! 😊
 
-Olá! É um prazer te ter por aqui! 🙂
- 
-👋 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🧉
+🥁 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🤘
 
-Moro em Porto Alegre, e estou em transição de carreira para a área da Tecnologia da Informação, área da qual sempre fui entusiasta. Finalizei em Dezembro de 2023 meu Superior de Tecnologia em Gestão em Tecnologia da Informação, e cursando Pós em Gestão Estratégica de Projetos e Metodologias Ágeis. Sou Licenciada em Português e Literatura pela Universidade Federal de Pelotas, com atuação na área de educação de adolescentes, e técnica em Prótese Dentária.
+Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior em **Gestão da Tecnologia da Informação** em dezembro de 2023 e sigo me especializando com uma pós em **Gestão Estratégica de Projetos e Metodologias Ágeis**.
 
-<p align="justify">
-Em 2023 finalizei o curso de Analista de QA, pela TripleTen, aprendi muito sobre documentação, análise e decomposição, classes de equivalência, casos de testes, teste de aplicativo, checklist, API, relatório de Bugs e analisar os requisitos, entre outros. 
-No início do ano de 2024, iniciei uma nova etapa de aprendizado, ingressando no curso de Mentoria com o Júlio de Lima, onde pude aprender mais sobre a área de testes. Nas horas livres tenho estudado Automações de Testes para enriquecer meu conhecimento acerca dos testes de software, concluindo um curso no Senai de Automações com Selenium, e começando automações com Cypress. Venho me encantando a cada dia pela área, tenho aprendido muito e quero aprender a me desenvolver ainda mais.
-</p>
+Sou licenciada em Letras – Português e Literatura, com experiência anterior na área da educação e também técnica em Prótese Dentária. Mas foi na área de testes que me encontrei!
 
-Além disso, já me aventurei um pouco em desenvolvimento Front-End e explorei bancos de dados, Power BI, entre outros. 
-Dê uma olhada no meu perfil e certificados no LinkedIn para conhecer mais sobre minha jornada, a lista é curta, mas só está começando 💪  [clicando aqui](https://www.linkedin.com/in/gabriellabraz/). 💻✨
+👩‍💻 **Atuo como Analista de Qualidade Jr**, com foco em:
 
-<b>Linguagens e ferramentas em que já me aventurei:</b>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram" />
-  </a>
+- Testes funcionais e exploratórios  
+- Testes de API (com Postman e Swagger)  
+- Testes de performance com **JMeter**, utilizando **BlazeMeter** para simulação e análise  
+- Testes automatizados com **Cypress**  
+- Documentação de bugs e análise de requisitos  
+- Acompanhamento de sprints com JIRA e metodologias ágeis
+
+🚀 Em 2024, finalizei o curso de Mentoria com o Júlio de Lima, e sigo estudando automação de testes e boas práticas com ferramentas como **Selenium** e **Cypress**, além de aprofundar meu conhecimento em testes de carga com **JMeter** e **BlazeMeter**.
+
+🎯 Estou sempre buscando evoluir, participando ativamente de testes em ambiente real, colaborando com devs, e trazendo feedbacks com foco na melhoria contínua do produto.
+
+✨ Me aventuro também por outras áreas como Front-End, bancos de dados, Power BI e organização de projetos.
+
+Quer conhecer mais da minha jornada? Dá uma olhadinha no meu [LinkedIn](https://www.linkedin.com/in/bibielilabraz) ou nos meus repositórios aqui no GitHub. A lista tá só começando! 💪
+
+---
+
+### 🛠️ Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" alt="Postman" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Swagger" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/cypress-logo.png" alt="Cypress" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/jmeter-logo.png" alt="JMeter" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/brazgabriella/assets/main/blazemeter-logo.png" alt="BlazeMeter" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </p>
