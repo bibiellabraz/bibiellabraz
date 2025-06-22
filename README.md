@@ -1,6 +1,6 @@
 # Olá! É um prazer te ter por aqui! 😊
 
-🥁 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🤘
+Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🤘
 
 Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior em **Gestão da Tecnologia da Informação** em dezembro de 2023 e continuo me especializando com uma pós-graduação em **Gestão Estratégica de Projetos e Metodologias Ágeis**.
 
@@ -26,14 +26,13 @@ Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidad
 ### 🚀 Testes com JMeter + BlazeMeter
 
 Recentemente, venho me aprofundando em **testes de performance com JMeter**, e já realizei:
-
 - **Testes de carga moderada** com 30 usuários simultâneos  
 - Simulação de navegação real pelo sistema, com login, visualização de projetos e múltiplas etapas  
 - **Validação de tempo de resposta e throughput**  
 - Utilização de **BlazeMeter** para análise visual dos dados e comparação entre diferentes execuções  
 - Interpretação de métricas como **APDEX**, tempo médio de resposta e erro por requisição
 
-Tudo isso voltado para ambientes reais, como os sistemas **PAA** e **Stratega**, com foco em performance e estabilidade.
+Tudo isso voltado para ambientes reais, com foco em performance e estabilidade.
 
 ---
 
