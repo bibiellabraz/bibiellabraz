@@ -1,25 +1,25 @@
 # Olá! É um prazer te ter por aqui! 😊
 
-Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 🤘
+Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
 
-Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior em **Gestão da Tecnologia da Informação** em dezembro de 2023 e continuo me especializando com uma pós-graduação em **Gestão Estratégica de Projetos e Metodologias Ágeis**.
+Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
 
-Sou licenciada em Letras – Português e Literatura, com experiência anterior na área da educação e também como técnica em Prótese Dentária. Mas foi como **Analista de Qualidade de Software** que encontrei meu lugar.
+Sou licenciada em Letras – Português e Literatura, com experiência anterior na área da educação e também como técnica em Prótese Dentária. Mas foi como Analista de Qualidade de Software que encontrei meu lugar.
 
 ---
 
-### 💼 O que faço como QA Jr?
+### O que faço como QA Jr?
 
 Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidade, como:
 
-- ✅ Testes manuais funcionais  
-- 🔍 Testes exploratórios  
-- 🔁 Testes de regressão  
-- 🔗 Testes de integração  
-- 🧪 Testes de API (utilizando Postman e Swagger)  
-- 🧱 Testes em ambiente de homologação com acompanhamento de requisitos via JIRA  
-- 📄 Elaboração de cenários e documentação de bugs  
-- 🤝 Interação direta com desenvolvedores e product owners
+- Testes manuais funcionais  
+- Testes exploratórios  
+- Testes de regressão  
+- Testes de integração  
+- Testes de API (utilizando Postman e Swagger)  
+- Testes em ambiente de homologação com acompanhamento de requisitos via JIRA  
+- Elaboração de cenários e documentação de bugs  
+- Interação direta com desenvolvedores e product owners
 
 ---
 
@@ -74,18 +74,6 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 
 ### 🛠️ Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
 
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma,html,html5,mysql,postman,Jira,cypress,vscode,selenium,npm,github,discord,JavaScript,vscode,NPM,Github,Git,linkedin,instagram," />
- </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
-  <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
-  <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
-</p>
-
-
----
-
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
@@ -97,6 +85,8 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a>
   <a href="https://www.linkedin.com/in/bibielabraz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+<p>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
   <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
   <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
