@@ -75,19 +75,10 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 ### 🛠️ Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=Jira" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=Jira" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=Discord" />
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a>
-  <a href="https://www.linkedin.com/in/bibielabraz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,html5,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram,Jira" />
+  </a>
+</p>
 </p>
 <p>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
