@@ -76,8 +76,7 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram,azure,npm,js" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html5,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram,azure,npm,js" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
   <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
   <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
