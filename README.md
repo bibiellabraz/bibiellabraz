@@ -75,13 +75,16 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 ### 🛠️ Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=Jira" /></a>
+  <a href="https://skillicons.dev/icons?i=Jira" />
+  <a href="https://skillicons.dev/icons?i=discord" />
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a>
   <a href="https://www.linkedin.com/in/bibielabraz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
