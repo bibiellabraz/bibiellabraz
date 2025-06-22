@@ -81,5 +81,7 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-blueviolet?logo=microsoftsqlserver&logoColor=white" alt="SSMS" /></a>
   <a href="https://jmeter.apache.org/"><img src="https://img.shields.io/badge/JMeter-Apache%20JMeter-ec2025?logo=apache&logoColor=white" alt="JMeter" /></a>
   <a href="https://www.blazemeter.com/"><img src="https://img.shields.io/badge/BlazeMeter-Performance%20Testing-orange?logo=blazemeter&logoColor=white" alt="BlazeMeter" /></a>
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-green?logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/API%20REST-Testes%20e%20Validações-blue?logo=cloud&logoColor=white" alt="API REST" />
 </p>
 
