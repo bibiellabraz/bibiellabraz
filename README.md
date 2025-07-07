@@ -1,4 +1,4 @@
-# Olá! É um prazer te ter por aqui! 
+![image](https://github.com/user-attachments/assets/1c3ec23b-69bc-43ae-9c21-ff7426edafbf)# Olá! É um prazer te ter por aqui! 
 
 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
 Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
@@ -34,7 +34,7 @@ Tudo isso voltado para ambientes reais, com foco em performance e estabilidade.
 
 ---
 
-### ⚙Testes automatizados com Cypress
+### Testes automatizados com Cypress
 
 Também venho estudando e aplicando automações de testes com **Cypress**, criando cenários automatizados para validação de funcionalidades web, tratamento de erros no `window`, uso de cookies e análise de comportamento em diferentes estados do DOM.
 
@@ -77,7 +77,12 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 - **2025 (em andamento)** – Curso **Jornada Tech QA** com **Fernando Papito** 
   > Explorando novas abordagens, ferramentas e técnicas para evoluir como profissional de QA.
-
+  - **Introdução ao JavaScript com Node.js** | Variáveis, funções, estruturas de controle, operadores<br>Arrays & Objetos (criação, iteração, métodos nativos)<br>Funções assíncronas (Promises, **async/await**, _try/catch_)<br>POO básica (classes, herança, encapsulamento)
+  - **Introdução ao Robot Framework** | Por que usar Robot para QA?<br>Estrutura de test cases & suites, keywords built-in<br>Variáveis & libraries padrão (Collections, String, DateTime)<br>Primeiro teste automatizado claro e legível
+  - **Automação Web c/ Browser Library** | Instalação (Browser Library, engine Playwright)<br>Localizadores modernos (CSS, text, *data-testid*)<br>Interações (clique, digitação, upload, navegação)<br>Validações & assertivas (waits, textos, atributos)
+  - **Avançando na Automação Web** | Keywords personalizadas & reutilização<br>**Data-Driven Testing** (JSON templates, múltiplos dados)<br>**Page Object Model** no Robot<br>Cross-Browser Testing<br>Integração com APIs via RequestsLibrary
+  - **TestOps com Robot & GitHub** | **CI/CD** com GitHub Actions<br>Relatórios (Allure, HTML Reporter, cobertura)<br>Ambiente Dockerizado p/ testes isolados<br>Execução paralela (Pabot, Playwright)<br>Workflows em nuvem & testes contínuos
+  - **Tecnologias e Ferramentas visitadas:** `JS` • `Node` • `Robot Framework` • `Playwright` • `Selenium` • `Cypress` • `GitHub Actions` • `Docker` • `MongoDB` • `Phyton` 
 
 ---
 
