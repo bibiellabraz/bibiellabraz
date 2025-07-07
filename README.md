@@ -54,7 +54,9 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 - **2024** – **Mentoria em Testes de Software** com **Júlio de Lima**  
   > Curso intensivo voltado à formação completa em Qualidade de Software, com abordagem prática e conteúdos de ponta. Ao longo das aulas, são desenvolvidas habilidades essenciais para atuação como QA, com foco em testes manuais, automatizados e performance, além de fundamentos ágeis e liderança.
-## Módulos | Principais tópicos:
+
+    Módulos | Principais tópicos:
+
   - **Boas-vindas & Instruções** visão geral do programa, onboarding no Discord, cronograma e regras da comunidade
   - **Fundamentos & Mentalidade** diferença entre teste × qualidade, papel do QA, IA nos testes, colaboração com devs, carreira
   - **Modelagem, Documentação & Execução** Checking × Testing, heurísticas, teste exploratório, partição de equivalência, cenários Gherkin, Jira/Zephyr
@@ -62,7 +64,8 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
   - **Testando & Automatizando Web Apps** acessibilidade, performance, mocks, Cypress/Playwright, design patterns, CI com GitHub Actions
   - **Testes de Performance** ISO-25010, **k6**, stages, thresholds, relatórios, versionamento
   - **Testes Ágeis** princípios ágeis, ceremonies (refinement, planning, dailys, sprint, review, retro), entrega de valor
-  - **Liderança em QA** ISO-29119-3, métricas, business cases, mentoring, provas de conceito (POC) 
+  - **Liderança em QA** ISO-29119-3, métricas, business cases, mentoring, provas de conceito (POC)
+  - **Tecnologias e Ferramentas visitadas:** `JavaScript` • `TypeScript` • `Jest`/`Mocha` • Cypress • Playwright • Selenium •  Supertest • Cucumber • k6 • JMeter • Mockoon • GitHub Actions • Jira • Zephyr • ChatGPT
 
 - **2025** – **Automation MasterClass** com **Alexandre Silva**  
   > Aprofundamento técnico em automações, ferramentas de mercado e boas práticas.
