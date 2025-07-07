@@ -54,7 +54,7 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 - **2024** – **Mentoria em Testes de Software** com **Júlio de Lima**  
   > Curso intensivo voltado à formação completa em Qualidade de Software, com abordagem prática e conteúdos de ponta. Ao longo das aulas, são desenvolvidas habilidades essenciais para atuação como QA, com foco em testes manuais, automatizados e performance, além de fundamentos ágeis e liderança.
-  - Módulos | Principais tópicos:
+## Módulos | Principais tópicos:
   - **Boas-vindas & Instruções** visão geral do programa, onboarding no Discord, cronograma e regras da comunidade
   - **Fundamentos & Mentalidade** diferença entre teste × qualidade, papel do QA, IA nos testes, colaboração com devs, carreira
   - **Modelagem, Documentação & Execução** Checking × Testing, heurísticas, teste exploratório, partição de equivalência, cenários Gherkin, Jira/Zephyr
