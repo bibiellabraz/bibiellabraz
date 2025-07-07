@@ -81,6 +81,7 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
   - Automação BackEnd: Testes de API REST; Autenticação e Autorização; Validação de Schemas; Testes de Integração; Relatórios de Testes
   - CI/CD;
   - Cypress na prática: Instalação e Setup do cypress; Estrutura de Projetos; Configurações Avançadas; Comandos Customizados; Plugins Úteis
+  - - **Tecnologias e Ferramentas visitadas:** `Cypress` • `DOM` • `JavaScript` • `API REST`
 
 - **2025 (em andamento)** – Curso **Jornada Tech QA** com **Fernando Papito** 
   > Explorando novas abordagens, ferramentas e técnicas para evoluir como profissional de QA.
