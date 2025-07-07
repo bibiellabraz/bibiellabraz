@@ -72,14 +72,15 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
   - **Liderança em QA** ISO-29119-3, métricas, business cases, mentoring, provas de conceito (POC)
   - **Tecnologias e Ferramentas visitadas:** `JavaScript` • `TypeScript` • `Jest`/`Mocha` • `Cypress` • `Playwright` • `Selenium` •  `Supertest` • `Cucumber` • `k6` • `JMeter` • `Mockoon` • `GitHub Actions` • `Jira` • `Zephyr`
 
-- **2025** – **Automation MasterClass** com **Alexandre Silva**  
+- **2025** – **Automation MasterClass** com **Alexandre Silva**
+  - Introdução sobre o papel da automação no QA - Escolha das Ferramentas Adequadas - Identificação dos testes adequados para automação - Importância do código limpo e legível - Automatização Gradual e Iterativa
   - Aprofundamento técnico em automações, ferramentas de mercado e boas práticas.
-  - JavaScript para QA;
+  - JavaScript para QA: Fundamentos do JavaScript - Variáveis e Tipos de Dados - Funções e Arrow Functions ´Promises e Async/Await - Manipulação do DOM
   - Fundamentos e boas práticas de automação de testes;
-  - Automação FrontEnd;
-  - Automação BackEnd;
+  - Automação FrontEnd: Seletores avançados; Elementos de interface e Funcionalidades; Simulação de Interações do Usuário; Boas práticas; Testes de layout e Comportamento Responsivo
+  - Automação BackEnd: Testes de API REST; Autenticação e Autorização; Validação de Schemas; Testes de Integração; Relatórios de Testes
   - CI/CD;
-  - Cypress na prática.
+  - Cypress na prática: Instalação e Setup do cypress; Estrutura de Projetos; Configurações Avançadas; Comandos Customizados; Plugins Úteis
 
 - **2025 (em andamento)** – Curso **Jornada Tech QA** com **Fernando Papito** 
   > Explorando novas abordagens, ferramentas e técnicas para evoluir como profissional de QA.
