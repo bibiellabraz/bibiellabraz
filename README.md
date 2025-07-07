@@ -77,11 +77,11 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 - **2025 (em andamento)** – Curso **Jornada Tech QA** com **Fernando Papito** 
   > Explorando novas abordagens, ferramentas e técnicas para evoluir como profissional de QA.
-  - **Introdução ao JavaScript com Node.js** | Variáveis, funções, estruturas de controle, operadores<br>Arrays & Objetos (criação, iteração, métodos nativos)<br>Funções assíncronas (Promises, **async/await**, _try/catch_)<br>POO básica (classes, herança, encapsulamento)
-  - **Introdução ao Robot Framework** | Por que usar Robot para QA?<br>Estrutura de test cases & suites, keywords built-in<br>Variáveis & libraries padrão (Collections, String, DateTime)<br>Primeiro teste automatizado claro e legível
-  - **Automação Web c/ Browser Library** | Instalação (Browser Library, engine Playwright)<br>Localizadores modernos (CSS, text, *data-testid*)<br>Interações (clique, digitação, upload, navegação)<br>Validações & assertivas (waits, textos, atributos)
-  - **Avançando na Automação Web** | Keywords personalizadas & reutilização<br>**Data-Driven Testing** (JSON templates, múltiplos dados)<br>**Page Object Model** no Robot<br>Cross-Browser Testing<br>Integração com APIs via RequestsLibrary
-  - **TestOps com Robot & GitHub** | **CI/CD** com GitHub Actions<br>Relatórios (Allure, HTML Reporter, cobertura)<br>Ambiente Dockerizado p/ testes isolados<br>Execução paralela (Pabot, Playwright)<br>Workflows em nuvem & testes contínuos
+  - **Introdução ao JavaScript com Node.js** Variáveis, funções, estruturas de controle, operadores Arrays & Objetos (criação, iteração, métodos nativos), Funções assíncronas (Promises, **async/await**, _try/catch_), POO básica (classes, herança, encapsulamento)
+  - **Introdução ao Robot Framework** Por que usar Robot para QA? Estrutura de test cases & suites, keywords built-in Variáveis & libraries padrão (Collections, String, DateTime), Primeiro teste automatizado claro e legível
+  - **Automação Web c/ Browser Library** Instalação (Browser Library, engine Playwright), Localizadores modernos (CSS, text, *data-testid*), Interações (clique, digitação, upload, navegação) Validações & assertivas (waits, textos, atributos)
+  - **Avançando na Automação Web** Keywords personalizadas & reutilização, **Data-Driven Testing** (JSON templates, múltiplos dados), **Page Object Model** no Robot Cross-Browser Testing Integração com APIs via RequestsLibrary
+  - **TestOps com Robot & GitHub** **CI/CD** com GitHub Actions Relatórios (Allure, HTML Reporter, cobertura), Ambiente Dockerizado p/ testes isolados Execução paralela (Pabot, Playwright), Workflows em nuvem & testes contínuos
   - **Tecnologias e Ferramentas visitadas:** `JS` • `Node` • `Robot Framework` • `Playwright` • `Selenium` • `Cypress` • `GitHub Actions` • `Docker` • `MongoDB` • `Phyton` 
 
 ---
