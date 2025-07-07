@@ -51,6 +51,7 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 - **2024** – Curso de **Testes Front-end com Jasmine e Selenium** pelo **Senai**  
   > Abordagem prática com foco em automações de testes para aplicações web.
+  - **Principais competências**: automação de testes front-end com Selenium WebDriver • criação de suítes no Jasmine • uso de Page Object Model • estratégias modernas de localização de elementos • validações funcionais • relatórios de execução.
 
 - **2024** – **Mentoria em Testes de Software** com **Júlio de Lima**  
   > Curso intensivo voltado à formação completa em Qualidade de Software, com abordagem prática e conteúdos de ponta. Ao longo das aulas, são desenvolvidas habilidades essenciais para atuação como QA, com foco em testes manuais, automatizados e performance, além de fundamentos ágeis e liderança.
