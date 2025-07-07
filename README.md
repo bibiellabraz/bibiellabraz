@@ -9,7 +9,6 @@ Sou licenciada em Letras – Português e Literatura, com experiência anterior 
 ### O que faço como QA Jr?
 
 Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidade, como:
-
 - Testes manuais funcionais  
 - Testes exploratórios  
 - Testes de regressão  
@@ -18,7 +17,6 @@ Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidad
 - Testes em ambiente de homologação com acompanhamento de requisitos via JIRA  
 - Elaboração de cenários e documentação de bugs  
 - Interação direta com desenvolvedores e product owners
-
 ---
 
 ### Testes com JMeter + BlazeMeter
@@ -35,7 +33,6 @@ Tudo isso voltado para ambientes reais, com foco em performance e estabilidade.
 ---
 
 ### Testes automatizados com Cypress
-
 Também venho estudando e aplicando automações de testes com **Cypress**, criando cenários automatizados para validação de funcionalidades web, tratamento de erros no `window`, uso de cookies e análise de comportamento em diferentes estados do DOM.
 
 ---
@@ -48,6 +45,14 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
   
 - **2023** – Bootcamp de **Analista de Qualidade de Software** pela **TripleTen**  
   > Aprendizado de fundamentos da área, incluindo testes manuais, casos de testes, API, checklist, relatórios de bugs e análise de requisitos.
+  - **Principais módulos abordados**:
+  - Fundamentos de QA e SDLC: introdução ao papel do testador, tipos de testes, elaboração de checklist e primeiros relatórios de bugs
+  - Design de Teste & Documentação: decomposição de requisitos, partição de equivalência, testes exploratórios, Gherkin, Jira/Zephyr
+  - Teste de Aplicações Web: arquitetura cliente-servidor, UX/UI, responsividade, cross‑browser, uso de DevTools, Postman e Requestly
+  - Teste de API: validação de endpoints, métodos HTTP, autenticação, payloads, relatórios e documentação automática
+  - Teste Mobile: emuladores Android, logs, testes em dispositivos reais
+  - Bancos de Dados & SQL: operação via console, consultas SQL, joins, análise de dados
+  - Projeto final integrando web, API e mobile, com definição de escopo, execução e reporte.
 
 - **2024** – Curso de **Testes Front-end com Jasmine e Selenium** pelo **Senai**  
   > Abordagem prática com foco em automações de testes para aplicações web.
