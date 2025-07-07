@@ -1,9 +1,7 @@
-# Olá! É um prazer te ter por aqui! 😊
+# Olá! É um prazer te ter por aqui! 
 
 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
-
 Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
-
 Sou licenciada em Letras – Português e Literatura, com experiência anterior na área da educação e também como técnica em Prótese Dentária. Mas foi como Analista de Qualidade de Software que encontrei meu lugar.
 
 ---
@@ -23,7 +21,7 @@ Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidad
 
 ---
 
-### 🚀 Testes com JMeter + BlazeMeter
+### Testes com JMeter + BlazeMeter
 
 Recentemente, venho me aprofundando em **testes de performance com JMeter**, e já realizei:
 - **Testes de carga moderada** com 30 usuários simultâneos  
@@ -36,13 +34,13 @@ Tudo isso voltado para ambientes reais, com foco em performance e estabilidade.
 
 ---
 
-### ⚙️ Testes automatizados com Cypress
+### ⚙Testes automatizados com Cypress
 
 Também venho estudando e aplicando automações de testes com **Cypress**, criando cenários automatizados para validação de funcionalidades web, tratamento de erros no `window`, uso de cookies e análise de comportamento em diferentes estados do DOM.
 
 ---
 
-### 🎓 Formação e cursos na área de Qualidade de Software
+### Formação e cursos na área de Qualidade de Software
 
 Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui está um resumo da minha trajetória de aprendizado:
 
@@ -64,7 +62,7 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
 
 ---
 
-### ✨ Curiosidades
+### Curiosidades
 
 Também já me aventurei por Front-End, bancos de dados e Power BI — além de manter um olhar atento para a usabilidade e experiência do usuário.
 
@@ -72,7 +70,7 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 
 ---
 
-### 🛠️ Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
+### Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
 
 <p align="center">
   <a href="https://skillicons.dev">
