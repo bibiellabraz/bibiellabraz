@@ -42,6 +42,7 @@ Também venho estudando e aplicando automações de testes com **Cypress**, cria
 Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui está um resumo da minha trajetória de aprendizado:
 
 - **2023** – Superior de Tecnologia **Gestão da Tecnologia da Informação** pela **Cruzeiro do Sul**
+  > Formação superior voltada para gestão de infraestrutura, banco de dados, redes, segurança da informação e desenvolvimento de sistemas.
   
 - **2023** – Bootcamp de **Analista de Qualidade de Software** pela **TripleTen**  
   > Aprendizado de fundamentos da área, incluindo testes manuais, casos de testes, API, checklist, relatórios de bugs e análise de requisitos.
