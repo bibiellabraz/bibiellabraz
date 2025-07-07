@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c3ec23b-69bc-43ae-9c21-ff7426edafbf)# Olá! É um prazer te ter por aqui! 
+# Olá! É um prazer te ter por aqui! 
 
 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
 Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
