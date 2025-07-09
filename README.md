@@ -103,7 +103,7 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
 
 ---
 
-### Linguagens e ferramentas com que já trabalhei ou estudo atualmente:
+### Linguagens e ferramentas com as quais já trabalhei ou estudo atualmente:
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html5,figma,html,mysql,postman,cypress,vscode,selenium,npm,github,discord,linkedin,instagram,azure,js,docker,ubuntu,nodejs,ts,gitlab,github,gherkin,mongodb" /></a>
