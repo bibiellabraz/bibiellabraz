@@ -114,3 +114,4 @@ Se quiser saber mais sobre minha trajetória ou meus estudos, é só me chamar n
   <img src="https://img.shields.io/badge/API%20REST-Testes%20e%20Validações-blue?logo=cloud&logoColor=white" alt="API REST" />
 </p>
 
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=bibiellabraz.bibiellabraz&left_color=gray&right_color=blue)
