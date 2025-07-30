@@ -1,8 +1,8 @@
 # Olá! É um prazer te ter por aqui! 
 
 Me chamo Gabriella, sou natural de Pelotas, Rio Grande do Sul! 
-Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação — área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
-Sou licenciada em Letras – Português e Literatura, com experiência anterior na área da educação e também como técnica em Prótese Dentária. Mas foi como Analista de Qualidade de Software que encontrei meu lugar.
+Atualmente moro em Porto Alegre e sigo firme na minha transição de carreira para a área de Tecnologia da Informação, área que sempre me encantou. Finalizei meu curso superior emGestão da Tecnologia da Informação em dezembro de 2023 e continuo me especializando com uma pós-graduação em Gestão Estratégica de Projetos e Metodologias Ágeis.
+Sou licenciada em Letras: Português e Literatura, com experiência anterior na área da educação e também como técnica em Prótese Dentária. Mas foi como Analista de Qualidade de Software que encontrei meu lugar.
 
 ---
 
