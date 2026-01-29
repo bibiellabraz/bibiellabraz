@@ -6,7 +6,7 @@ Sou licenciada em Letras: Português e Literatura, com experiência anterior na 
 
 ---
 
-### O que faço como QA Jr?
+### O que faço como QA?
 
 Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidade, como:
 - Testes manuais funcionais  
