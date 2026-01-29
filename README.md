@@ -21,19 +21,19 @@ Atuo no dia a dia com diversos tipos de testes e tarefas de garantia da qualidad
 
 ### Testes com JMeter + BlazeMeter
 
-Recentemente, venho me aprofundando em **testes de performance com JMeter**, e já realizei:
-- **Testes de carga moderada** com 30 usuários simultâneos  
+Recentemente, venho me aprofundando em testes de performance com JMeter, e já realizei:
+- Testes de carga moderada com 30 usuários simultâneos  
 - Simulação de navegação real pelo sistema, com login, visualização de projetos e múltiplas etapas  
-- **Validação de tempo de resposta e throughput**  
-- Utilização de **BlazeMeter** para análise visual dos dados e comparação entre diferentes execuções  
-- Interpretação de métricas como **APDEX**, tempo médio de resposta e erro por requisição
+- Validação de tempo de resposta e throughput  
+- Utilização de BlazeMeter para análise visual dos dados e comparação entre diferentes execuções  
+- Interpretação de métricas como APDEX, tempo médio de resposta e erro por requisição
 
 Tudo isso voltado para ambientes reais, com foco em performance e estabilidade.
 
 ---
 
 ### Testes automatizados com Cypress
-Também venho estudando e aplicando automações de testes com **Cypress**, criando cenários automatizados para validação de funcionalidades web, tratamento de erros no `window`, uso de cookies e análise de comportamento em diferentes estados do DOM.
+Também venho estudando e aplicando automações de testes com Cypress, criando cenários automatizados para validação de funcionalidades web, tratamento de erros no `window`, uso de cookies e análise de comportamento em diferentes estados do DOM.
 
 ---
 
