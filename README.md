@@ -84,7 +84,7 @@ Desde 2023 venho me dedicando continuamente à formação na área de QA. Aqui e
   - Cypress na prática: Instalação e Setup do cypress; Estrutura de Projetos; Configurações Avançadas; Comandos Customizados; Plugins Úteis
   - **Tecnologias e Ferramentas visitadas:** `Cypress` • `DOM` • `JavaScript` • `API REST`
 
-- **2025 (em andamento)** – Curso **Jornada Tech QA** com **Fernando Papito** 
+- **2025** – Curso **Jornada Tech QA** com **Fernando Papito** 
   > Explorando novas abordagens, ferramentas e técnicas para evoluir como profissional de QA.
   - **Introdução ao JavaScript com Node.js** Variáveis, funções, estruturas de controle, operadores Arrays & Objetos (criação, iteração, métodos nativos), Funções assíncronas (Promises, **async/await**, _try/catch_), POO básica (classes, herança, encapsulamento)
   - **Introdução ao Robot Framework** Por que usar Robot para QA? Estrutura de test cases & suites, keywords built-in Variáveis & libraries padrão (Collections, String, DateTime), Primeiro teste automatizado claro e legível
